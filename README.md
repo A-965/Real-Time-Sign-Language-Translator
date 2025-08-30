@@ -45,7 +45,6 @@ Areas for Contribution
 Real-Time Sign Language Translator
 A deep learning-based real-time sign language recognition system built with PyTorch, OpenCV, and MediaPipe. This project uses computer vision and neural networks to translate American Sign Language (ASL) gestures into text in real-time.
 
-PythonPyTorchOpenCVMediaPipeLicense
 
 🎯 Features
 Real-time hand tracking using MediaPipe
