@@ -107,12 +107,17 @@ Note: These metrics will improve significantly with real sign language data.
 Contributions are welcome! Here's how you can help:
 
 Fork the repository
+
 Create a feature branch (git checkout -b feature/amazing-feature)
+
 Commit your changes (git commit -m 'Add amazing feature')
+
 Push to the branch (git push origin feature/amazing-feature)
+
 Open a Pull Request
+
 Areas for Contribution
- Integration with popular ASL datasets (WLASL, MS-ASL)
+ Integration with popular ASL datasets (WLASL,      MS-ASL)
  Multi-hand gesture recognition
  Facial expression integration
  Mobile app development
@@ -126,6 +131,7 @@ MediaPipe team for excellent hand tracking solutions
 PyTorch community for the deep learning framework
 OpenCV for computer vision utilities
 ASL community for inspiration and guidance
+
 📞 Contact
 Author: Ajay
 Email: ajaykdn7@gmail.com
